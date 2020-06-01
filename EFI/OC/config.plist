@@ -211,7 +211,7 @@
 			<key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
 			<dict>
 				<key>layout-id</key>
-				<data>AQAAAA==</data>
+				<data>AwCSPg==</data>
 			</dict>
 		</dict>
 		<key>Block</key>
@@ -694,7 +694,7 @@
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
-				<data></data>
+				<string>en-US:0</string>
 			</dict>
 		</dict>
 		<key>Block</key>
